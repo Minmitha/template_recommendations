@@ -4,5 +4,7 @@
     <p>Industry: {{ ucfirst($template['industry']) }}</p>
     <p>Color: {{ ucfirst($template['color']) }}</p>
     <p>Color: {{ ucfirst($template['color']) }}</p>
+    <p>us: {{ ucfirst($template['color']) }}</p>
+
 
 </div>
